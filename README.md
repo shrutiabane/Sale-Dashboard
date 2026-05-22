@@ -54,10 +54,11 @@ Business Impact
 •	Supports data-driven decision-making using real-time insights
 •	Improves overall business visibility through centralized dashboard
 
-🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Sales Dashboard] (https://github.com/shrutiabane/Sale-Dashboard/raw/main/PowerBI-Sale-Dashboard.png)
-Interactive dashboard showing KPIs, sales trends, regional performance, and category-wise insights.
+![Sales Dashboard](https://github.com/shrutiabane/Sale-Dashboard/raw/main/PowerBI-Sale-Dashboard.png)
+
+> Interactive dashboard showing KPIs, sales trends, regional performance, and category-wise insights.
 
 🔗 Project Link
 
